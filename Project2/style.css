@@ -1,0 +1,53 @@
+body {
+    font-family: 'Georgia', 'Times New Roman', serif;
+    font-size: 22px; 
+    background-color: #fcf8f2; 
+    color: #2c2520;
+    text-align: center; 
+}
+
+header {
+    text-align: center;
+}
+
+header h1 {
+    font-size: 54px; 
+    color: #800020; 
+}
+
+header p {
+    font-size: 20px; 
+    color: #b38600; 
+}
+
+table {
+    background-color: #ffffff;
+}
+
+th {
+    background-color: #800020; 
+    color: #ffffff;
+    font-size: 26px; /* Enhanced header item text size */
+}
+
+caption {
+    font-size: 32px; 
+    color: #800020;
+    background-color: #f5ebd6; 
+}
+
+.dish-name {
+    color: #1a1a1a;
+    font-size: 22px;
+}
+
+.price {
+    color: #800020;
+    font-size: 22px;
+}
+
+footer {
+    text-align: center;
+    font-size: 16px;
+    color: #776655;
+}
